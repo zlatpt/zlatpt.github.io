@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zlatpt.github.io/sitemap/sitemap.xml
